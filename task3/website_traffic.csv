@@ -1,0 +1,27 @@
+﻿user_id,session_id,timestamp,page,device_type,country,referrer
+U001,S001,2024-01-01 08:00:00,/home,desktop,US,organic
+U001,S001,2024-01-01 08:15:00,/products,desktop,US,organic
+U002,S002,2024-01-01 08:30:00,/home,mobile,UK,google
+U002,S002,2024-01-01 08:45:00,/contact,mobile,UK,google
+U003,S003,2024-01-01 09:00:00,/home,desktop,CA,organic
+U003,S003,2024-01-01 09:20:00,/about,desktop,CA,organic
+U001,S004,2024-01-01 10:00:00,/home,desktop,US,direct
+U001,S004,2024-01-01 10:15:00,/blog,desktop,US,direct
+U004,S005,2024-01-01 10:30:00,/home,mobile,AU,facebook
+U004,S005,2024-01-01 10:45:00,/products,mobile,AU,facebook
+U005,S006,2024-01-01 11:00:00,/home,tablet,US,organic
+U005,S006,2024-01-01 11:20:00,/contact,tablet,US,organic
+U006,S007,2024-01-01 11:30:00,/home,desktop,UK,google
+U006,S007,2024-01-01 11:50:00,/about,desktop,UK,google
+U002,S008,2024-01-01 12:00:00,/home,mobile,UK,direct
+U002,S008,2024-01-01 12:15:00,/blog,mobile,UK,direct
+U007,S009,2024-01-01 12:30:00,/home,desktop,CA,twitter
+U007,S009,2024-01-01 12:50:00,/products,desktop,CA,twitter
+U008,S010,2024-01-01 13:00:00,/home,mobile,US,organic
+U008,S010,2024-01-01 13:15:00,/contact,mobile,US,organic
+U009,S011,2024-01-01 14:00:00,/home,desktop,AU,facebook
+U009,S011,2024-01-01 14:20:00,/about,desktop,AU,facebook
+U010,S012,2024-01-01 14:30:00,/home,tablet,UK,google
+U010,S012,2024-01-01 14:45:00,/blog,tablet,UK,google
+U003,S013,2024-01-01 15:00:00,/home,desktop,CA,organic
+U003,S013,2024-01-01 15:15:00,/products,desktop,CA,organic
